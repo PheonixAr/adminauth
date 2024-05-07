@@ -1,0 +1,17 @@
+.cont-flex {
+    padding-left: 30%;
+}
+
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.eye-slash {
+    display: flex;
+}
+
+form i {
+    margin-left: -30px;
+    cursor: pointer;
+}
